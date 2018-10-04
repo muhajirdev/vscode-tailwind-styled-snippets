@@ -16,14 +16,17 @@ Simply write `tail`.
 
 Initial release
 
-### For more information
+## For more information
 
 - [Github](https://github.com/muhajirframe/vscode-tailwind-styled-snippets)
 - Got a question? [Submit an issue](https://github.com/muhajirframe/vscode-tailwind-styled-snippets/issues/new)
 
-### Contributing
+## Contributing
 
 - [Submit an idea](https://github.com/muhajirframe/vscode-tailwind-styled-snippets/issues/new)
 - Make a pull request
+
+## Related
+- [react-tailwind-emotion-starter](https://github.com/muhajirframe/react-tailwind-emotion-starter) A React + Tailwind + EmotionJs starter based on [create-react-app](https://github.com/facebook/create-react-app)
 
 **Enjoy!**
