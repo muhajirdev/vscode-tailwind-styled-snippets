@@ -13,7 +13,7 @@ Simply write `tail`.
 ## Who should use this?
 - [Styled Components User](https://styled-components.com/docs/faqs)
 - [EmotionJS User](https://github.com/emotion-js/emotion)
-And maybe more?
+- And maybe more?
 
 ## Release Notes
 
