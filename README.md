@@ -10,6 +10,11 @@ Follow the [installation steps here](https://marketplace.visualstudio.com/items?
 
 Simply write `tail`.
 
+## Who should use this?
+- [Styled Components User](https://styled-components.com/docs/faqs)
+- [EmotionJS User](https://github.com/emotion-js/emotion)
+And maybe more?
+
 ## Release Notes
 
 ### 1.0.0
