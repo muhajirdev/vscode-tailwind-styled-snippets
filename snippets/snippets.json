@@ -1,0 +1,6 @@
+{
+  "Tailwind Styled": {
+    "prefix": "tail",
+    "body": ["const ${1:Component} = styled.${2:div}`", " ${tw`${3}`};", "`"]
+  }
+}

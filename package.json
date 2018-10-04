@@ -1,0 +1,21 @@
+{
+    "name": "tailwind-styled-snippets",
+    "displayName": "tailwind-styled-snippets",
+    "description": "A snippet for creating React Component with tailwindcss and styled-components or emotionjs",
+    "version": "0.0.1",
+    "publisher": "muhajirframe",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
