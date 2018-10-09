@@ -2,7 +2,7 @@
   "name": "tailwind-styled-snippets",
   "displayName": "tailwind-styled-snippets",
   "description": "A snippet for creating React Component with tailwindcss and styled-components or emotionjs",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "repository": "https://github.com/muhajirframe/vscode-tailwind-styled-snippets",
   "author": "Muhammad Muhajir <muhajirframe@gmail.com>",
   "publisher": "muhajirframe",
