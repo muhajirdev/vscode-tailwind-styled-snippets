@@ -17,8 +17,10 @@ Simply write `tail`.
 - And maybe more?
 
 ## Where does this snippet runs?
+
 - `.js`
 - `.jsx`
+- `.ts`
 - `.tsx`
 
 ## Release Notes
