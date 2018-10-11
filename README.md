@@ -46,5 +46,7 @@ Initial release
 ## Related
 
 - [react-tailwind-emotion-starter](https://github.com/muhajirframe/react-tailwind-emotion-starter) A React + Tailwind + EmotionJs starter based on [create-react-app](https://github.com/facebook/create-react-app)
+- [gatsby-plugin-tailwindcss](https://github.com/muhajirframe/gatsby-plugin-tailwincss)
+- [gatsby-tailwind-emotion-starter](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter)
 
 **Enjoy!**
