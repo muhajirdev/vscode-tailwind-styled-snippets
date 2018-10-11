@@ -11,13 +11,23 @@ Follow the [installation steps here](https://marketplace.visualstudio.com/items?
 Simply write `tail`.
 
 ## Who should use this?
+
 - [Styled Components User](https://styled-components.com/docs/faqs)
 - [EmotionJS User](https://github.com/emotion-js/emotion)
 - And maybe more?
 
+## Where does this snippet runs?
+- `.js`
+- `.jsx`
+- `.tsx`
+
 ## Release Notes
 
-### 1.0.0
+### 0.1.0
+
+Added support for `.jsx`, and `.tsx`
+
+### 0.0.1
 
 Initial release
 
@@ -32,6 +42,7 @@ Initial release
 - Make a pull request
 
 ## Related
+
 - [react-tailwind-emotion-starter](https://github.com/muhajirframe/react-tailwind-emotion-starter) A React + Tailwind + EmotionJs starter based on [create-react-app](https://github.com/facebook/create-react-app)
 
 **Enjoy!**
