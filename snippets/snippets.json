@@ -1,6 +1,18 @@
 {
   "Tailwind Styled": {
     "prefix": "tail",
-    "body": ["const ${1:Component} = styled.${2:div}`", " ${tw`${3}`};", "`"]
+    "body": [
+      "const ${1:Component} = styled.${2:div}`", 
+      " ${tw`${3}`};", 
+      "`"
+    ]
+  },
+  "Tailwind Styled css": {
+    "prefix": "tailc",
+    "body": [
+      "const ${1:classname} = css`",
+      " ${tw`${2}`};",
+      "`"
+    ]
   }
 }
