@@ -10,7 +10,7 @@
   "Tailwind Styled css": {
     "prefix": "tailc",
     "body": [
-      "const ${1:classname} = css`",
+      "const ${1:className} = css`",
       " ${tw`${2}`};",
       "`"
     ]
