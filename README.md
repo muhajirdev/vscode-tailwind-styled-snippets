@@ -8,7 +8,22 @@ Follow the [installation steps here](https://marketplace.visualstudio.com/items?
 
 ![demo](./docs/demo.gif)
 
-Simply write `tail`.
+Simply write `tail`
+for
+
+```
+const Component = styled.div`
+ ${tw``};
+`
+```
+
+and `tailc` for
+
+```
+const className = css`
+ ${tw``};
+`
+```
 
 ## Who should use this?
 
