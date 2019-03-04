@@ -2,7 +2,7 @@
 
 ## Installation
 
-Follow the [installation steps here](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) and reload VSCode
+Follow the [installation steps here](https://marketplace.visualstudio.com/items?itemName=muhajirdev.tailwind-styled-snippets) and reload VSCode
 
 ## Usage
 
