@@ -2,7 +2,7 @@
 
 ## Installation
 
-Follow the [installation steps here](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) and reload VSCode
+Follow the [installation steps here](https://marketplace.visualstudio.com/items?itemName=muhajirdev.tailwind-styled-snippets) and reload VSCode
 
 ## Usage
 
@@ -50,19 +50,19 @@ Initial release
 
 ## For more information
 
-- [Github](https://github.com/muhajirframe/vscode-tailwind-styled-snippets)
-- Got a question? [Submit an issue](https://github.com/muhajirframe/vscode-tailwind-styled-snippets/issues/new)
+- [Github](https://github.com/muhajirdev/vscode-tailwind-styled-snippets)
+- Got a question? [Submit an issue](https://github.com/muhajirdev/vscode-tailwind-styled-snippets/issues/new)
 
 ## Contributing
 
-- [Submit an idea](https://github.com/muhajirframe/vscode-tailwind-styled-snippets/issues/new)
+- [Submit an idea](https://github.com/muhajirdev/vscode-tailwind-styled-snippets/issues/new)
 - Make a pull request
 
 ## Related
 
-- [vscode-react-emotion](https://github.com/muhajirframe/vscode-react-emotion)
-- [react-tailwind-emotion-starter](https://github.com/muhajirframe/react-tailwind-emotion-starter) A React + Tailwind + EmotionJs starter based on [create-react-app](https://github.com/facebook/create-react-app)
-- [gatsby-plugin-tailwindcss](https://github.com/muhajirframe/gatsby-plugin-tailwincss)
-- [gatsby-tailwind-emotion-starter](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter)
+- [vscode-react-emotion](https://github.com/muhajirdev/vscode-react-emotion)
+- [react-tailwind-emotion-starter](https://github.com/muhajirdev/react-tailwind-emotion-starter) A React + Tailwind + EmotionJs starter based on [create-react-app](https://github.com/facebook/create-react-app)
+- [gatsby-plugin-tailwindcss](https://github.com/muhajirdev/gatsby-plugin-tailwincss)
+- [gatsby-tailwind-emotion-starter](https://github.com/muhajirdev/gatsby-tailwind-emotion-starter)
 
 **Enjoy!**
